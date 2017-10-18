@@ -22,6 +22,9 @@ After installation and activation of this plugin you'll have a new menu item in 
 * PBX IP (or hostname)
 * CMB context
 
+## How to display a phone number input field and 'call me'-button
+Enter the shortcode `cmb_form` anywhere in your pages.
+
 ## Caveats
 Make sure you have allowed the IP-address of your webserver in the firewall of your PBX, or the requests to the PBX will fail.
 
