@@ -11,7 +11,10 @@ Zip-file to upload to your WordPress site: <a href="https://github.com/olku/CMB-
 PBX documentation on call-me-back: <a href="https://axeos.com/knowledgebase/call-back-cmb/">Axeos knowledgebase</a>.
 
 ## Installation
-Log into your WordPress site with an admin account. Go to 'Plugins' and click 'Add New'. Then click 'Upload Plugin'. Choose the file 'CMB-for-Axeos-PBX-master.zip' which you downloaded from the 'Download' step in this readme file.
+1. Log into your WordPress site with an admin account. 
+2. Go to 'Plugins' and click 'Add New'. 
+3. Then click 'Upload Plugin'. Choose the file 'CMB-for-Axeos-PBX-master.zip' which you downloaded from the 'Download' step in this readme file.
+4. Activate the plugin.
 
 ## Configuration in WordPress administration
 After installation and activation of this plugin you'll have a new menu item in the left menu column of your WordPress admin: 'CMB Settings'. It provides you with a settings page to configure:
