@@ -13,7 +13,7 @@ add_action('admin_menu', 'cmb_plugin_create_menu');
 function cmb_plugin_create_menu() {
 
 // create new top-level WordPress menu item
-add_menu_page('CMB plugin settings', 'CMB Settings', 'administrator', __FILE__, 'cmb_plugin_settings_page' , plugins_url('/images/icon.png', __FILE__) );
+add_menu_page('CMB plugin settings', 'CMB Settings', 'administrator', __FILE__, 'cmb_plugin_settings_page' , plugins_url('/assets/icon.png', __FILE__) );
     }
 
 function cmb_plugin_settings_page() {
