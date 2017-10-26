@@ -33,7 +33,7 @@ Make sure you have allowed the IP-address of your webserver in the firewall of y
 I have released this plugin under the GNU GENERAL PUBLIC LICENSE Version 3. In short this means you may copy, distribute and modify this software as long as you track changes/dates in source files and retain the original copyright. Any modifications you make must also be made available under the GPL along with build & install instructions. For more detailed information view the license file included in this repository.
 
 ## Disclaimer
-This plugin is not an official Axeos product. It's not released by Axeos. It's not supported by Axeos.
+This plugin is not an official Axeos product. It's not released by <a href="https://github.com/axeos">Axeos</a>. It's not supported by Axeos. If you encounter issues, see <b>issues</b> below.
 
 ## Issues
 If you encounter an issue which is related to the code (I won't solve your hosting environment issues) you can <a href="https://github.com/olku/CMB-for-Axeos-PBX/issues/new">open an issue</a> or fix it yourself.
