@@ -30,7 +30,7 @@ Make sure you have allowed the IP-address of your webserver in the firewall of y
 PBX documentation on call-me-back: <a href="https://axeos.com/knowledgebase/call-back-cmb/">Axeos knowledgebase</a>.
 
 ## License
-I have released this plugin under the GNU GENERAL PUBLIC LICENSE Version 3. In short this means you may copy, distribute and modify this software as long as you track changes/dates in source files and retain the original copyright. Any modifications you make must also be made available under the GPL along with build & install instructions. For more detailed information view the license file included in this repository.
+I have released this plugin under the MIT license.
 
 ## Disclaimer
 This plugin is not an official Axeos product. It's not released by <a href="https://axeos.com">Axeos</a>. It's not supported by Axeos. If you encounter issues, see <b>issues</b> below.
