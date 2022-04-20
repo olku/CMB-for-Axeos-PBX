@@ -2,7 +2,7 @@
 This plugin enables you to easily add call-me-back functionality to your <a href="https://wordpress.org">WordPress</a> website utilizing the API of your <a href="https://axeos.com">Axeos cloud PBX</a>.
 
 ##  Requirements
-* Axeos PBX version 3.4.x (v4.2.0 will require changes to the plugin that I've not implemented yet)
+* Axeos PBX version 3.4.x/4.1.x (v4.2.0 will require changes to the plugin that I've not implemented yet)
 
 ## Download
 Zip-file to upload to your WordPress site: <a href="https://github.com/olku/CMB-for-Axeos-PBX/archive/master.zip">download here</a>.
